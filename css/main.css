@@ -1,0 +1,81 @@
+
+body{
+    width:100%;
+    max-width: 1200px;
+    margin: auto;
+    font: normal 16px arial black;
+}
+
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    font-size: 30px;
+    color: blue;
+}
+
+h2{
+    font-size: 25px;
+    color: steelblue;
+}
+
+main{
+    height: 70vh;
+}
+
+img{
+    border: 5px solid darkblue;
+    width: 90%;
+    height: 80%;
+}
+
+figure{
+    background-color: lightskyblue;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#emage1{
+    float: left;
+}
+
+#emage2{
+    float: right;
+}
+
+section{
+    clear: both;
+}
+
+figcaption{
+    font-weight:lighter;
+    font-size: 1.1em;
+    color: navy;
+    padding: 5px;
+}
+
+ul li{
+    list-style:circle;
+    line-height: 3;
+}
+
+ul li a{
+    text-decoration: none;
+    color: royalblue;
+}
+
+ul li a:hover{
+    color: darkblue;
+}
+
+.ycp{
+    background-color: lightblue;
+}
+
+footer{
+    clear: both;
+} 
